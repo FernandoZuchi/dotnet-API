@@ -7,12 +7,17 @@ namespace dotnet_C__API.Controllers;
 public class UserController : ControllerBase
 {
     [HttpGet]
-    public IActionResult Get()
+    [Route("{id}")]
+    [ProducesResponseType(typeof(User), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(string), StatusCodes.Status400BadRequest)]
+
+    public IActionResult GetById([FromRoute] int i)
     {
-        var response = new Response
+        var response = new User
         {
-            Name = "Fernando",
-            Age = 0,
+            Id = 1,
+            Age = 21,
+            Name = "Fernando"
         };
 
         return Ok(response);

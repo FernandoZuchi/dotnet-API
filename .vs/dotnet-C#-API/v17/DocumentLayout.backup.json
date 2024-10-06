@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|c:\\users\\fernando zuchi\\desktop\\dev\\rocketseat\\c#\\dotnet-c#-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|c:\\users\\fernando zuchi\\desktop\\dev\\rocketseat\\c#\\dotnet-c#-api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|c:\\users\\fernando zuchi\\desktop\\dev\\rocketseat\\c#\\dotnet-c#-api\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|solutionrelative:response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|c:\\users\\fernando zuchi\\desktop\\dev\\rocketseat\\c#\\dotnet-c#-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|c:\\users\\fernando zuchi\\desktop\\dev\\rocketseat\\c#\\dotnet-c#-api\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93845CB4-9A80-4531-955E-8F84E6DF9E5F}|dotnet-C#-API.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\Response.cs",
-              "RelativeDocumentMoniker": "Response.cs",
-              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\Response.cs",
-              "RelativeToolTip": "Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T04:09:28.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T03:51:22.954Z",
+              "WhenOpened": "2024-10-06T20:16:32.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:35:33.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T03:39:30.55Z",
               "EditorCaption": ""

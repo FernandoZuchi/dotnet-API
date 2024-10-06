@@ -30,3 +30,4 @@ C:\Users\Fernando Zuchi\Desktop\Dev\Rocketseat\C#\dotnet-C#-API\obj\Debug\net8.0
 C:\Users\Fernando Zuchi\Desktop\Dev\Rocketseat\C#\dotnet-C#-API\obj\Debug\net8.0\dotnet-C#-API.pdb
 C:\Users\Fernando Zuchi\Desktop\Dev\Rocketseat\C#\dotnet-C#-API\obj\Debug\net8.0\dotnet-C#-API.genruntimeconfig.cache
 C:\Users\Fernando Zuchi\Desktop\Dev\Rocketseat\C#\dotnet-C#-API\obj\Debug\net8.0\ref\dotnet-C#-API.dll
+C:\Users\Fernando Zuchi\Desktop\Dev\Rocketseat\C#\dotnet-C#-API\obj\Debug\net8.0\dotnet-C#-API.sourcelink.json
