@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ex1nSvve9ws=",
+  "dgSpecHash": "unQD9ZHpYys=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-C#-API\\dotnet-C#-API.csproj",
+  "projectFilePath": "C:\\Users\\Fernando Zuchi\\Desktop\\Dev\\Rocketseat\\C#\\dotnet-API\\dotnet-C#-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando Zuchi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Fernando Zuchi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

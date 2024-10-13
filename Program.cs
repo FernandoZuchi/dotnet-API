@@ -5,7 +5,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddRouting(option => option.LowercaseUrls = true);
+// builder.Services.AddRouting(option => option.LowercaseUrls = true);
 
 var test = builder.Configuration.GetSection("Prop1").Value;
 
