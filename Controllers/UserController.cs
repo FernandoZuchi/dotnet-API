@@ -2,9 +2,7 @@
 
 namespace dotnet_C__API.Controllers;
 
-[Route("api/[controller]")]
-[ApiController]
-public class UserController : ControllerBase
+public class UserController : MyFirstApiBaseController
 {
     [HttpGet]
     [Route("{id}")]
@@ -64,7 +62,9 @@ public class UserController : ControllerBase
             new User { Id = 2, Age = 7, Name = "Welysson"}
         };
 
-        return Ok(response);
+        var key = GetCustomKey();
+
+        return Ok(key);
     }
 
     [HttpPut("change-password")]
